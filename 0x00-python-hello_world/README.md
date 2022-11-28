@@ -6,3 +6,4 @@
 [5-print_string.py](./5-print_string.py) : Completing a source code <br/>
 [6-concat.py](./6-concat.py) : Complete this source code to print Welcome to Holberton School! <br/>
 [7-edges.py](./7-edges.py) : Completing a source code <br/>
+[8-concat_edges.py](./8-concat_edges.py) : Complete this source code to print object-oriented programming with Python <br/>
