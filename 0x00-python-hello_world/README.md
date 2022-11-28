@@ -1,1 +1,2 @@
-[0-run](./0-run) : a Shell script that runs a Python script. <br/>
+[0-run](./0-run) : a Shell script that runs a Python script. The Python code will be saved in the environment variable $PYFILE <br/>
+[1-run_inline](./1-run_inline) : a Shell script that runs Python code. The Python code will be saved in the environment variable $PYCODE <br/>
