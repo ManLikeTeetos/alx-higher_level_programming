@@ -10,4 +10,5 @@
 [9-easter_egg.py](./9-easter_egg.py) : a Python script that prints “The Zen of Python”, by TimPeters <br/>
 [10-check_cycle.c](./10-check_cycle.c) : Write a function in C that checks if a singly linked list has a cycle in it. <br/>
 [100-write.py](./100-write.py) : a Python script that prints exactly and that piece of art is useful - Dora Korpar, 2015-10-19 <br/>
-[]() : Write a script that compiles a Python script file. <br/>
+[101-compile](./101-compile) : Write a script that compiles a Python script file. <br/>
+[102-magic_calculation.py](./102-magic_calculation.py) : Write the Python function def magic_calculation(a, b) <br/>
