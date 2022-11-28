@@ -7,3 +7,4 @@
 [6-concat.py](./6-concat.py) : Complete this source code to print Welcome to Holberton School! <br/>
 [7-edges.py](./7-edges.py) : Completing a source code <br/>
 [8-concat_edges.py](./8-concat_edges.py) : Complete this source code to print object-oriented programming with Python <br/>
+[9-easter_egg.py](./9-easter_egg.py) : a Python script that prints “The Zen of Python”, by TimPeters <br/>
