@@ -4,3 +4,4 @@
 [3-print_number.py](./3-print_number.py) : Completing a source code <br/>
 [4-print_float.py](./4-print_float.py) : Completing a source code <br/>
 [5-print_string.py](./5-print_string.py) : Completing a source code <br/>
+[6-concat.py](./6-concat.py) : Complete this source code to print Welcome to Holberton School! <br/>
