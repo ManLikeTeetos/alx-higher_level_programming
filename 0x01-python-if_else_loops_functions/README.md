@@ -5,3 +5,4 @@
 [4-print_hexa.py](./4-print_hexa.py) : Print all numbers from 0 to 98 in decimal and in hexadecimal <br/>
 [5-print_comb2.py](./5-print_comb2.py) : a program that prints numbers from 0 to 99. <br/>
 [6-print_comb3.py](./6-print_comb3.py) : a program that prints all possible different combinations of two digits. 01 and 10 are considered the same combination of the two digits 0 and 1 <br/>
+[7-islower.py](./7-islower.py) : a function that checks for lowercase character. <br/>
