@@ -14,3 +14,4 @@
 [13-insert_number.c](./13-insert_number.c) : Technical interview in C <br/>
 [100-print_tebahpla.py](./100-print_tebahpla.py) : a program that prints the ASCII alphabet, in reverse order, alternating lowercase and uppercase <br/>
 [101-remove_char_at.py](./101-remove_char_at.py) : a function that creates a copy of the string, removing the character at the position n (not the Python way, the “C array index”) <br/>
+[102-magic_calculation.py](./102-magic_calculation.py) : Write the Python function def magic_calculation(a, b, c) that does the same as some Python bytecode <br/>
