@@ -11,3 +11,5 @@
 [10-add.py](./10-add.py) : a function that adds two integers and returns the result. <br/>
 [11-pow.py](./11-pow.py) : a function that computes a to the power of b and return the value. <br/>
 [12-fizzbuzz.py](./12-fizzbuzz.py) : Fizz buzz challenge <br/>
+[13-insert_number.c](./13-insert_number.c) : Technical interview in C <br/>
+[100-print_tebahpla.py](./100-print_tebahpla.py) : a program that prints the ASCII alphabet, in reverse order, alternating lowercase and uppercase <br/>
