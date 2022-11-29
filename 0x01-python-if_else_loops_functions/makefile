@@ -1,0 +1,4 @@
+git:
+	git add .
+	git commit -m "Python - if/else, loops, functions"
+	git push
