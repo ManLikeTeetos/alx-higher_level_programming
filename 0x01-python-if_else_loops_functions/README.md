@@ -9,3 +9,5 @@
 [8-uppercase.py](./8-uppercase.py) : a function that prints a string in uppercase followed by a new line. <br/>
 [9-print_last_digit.py](./9-print_last_digit.py) : a function that prints the last digit of a number.<br/>
 [10-add.py](./10-add.py) : a function that adds two integers and returns the result. <br/>
+[11-pow.py](./11-pow.py) : a function that computes a to the power of b and return the value. <br/>
+[12-fizzbuzz.py](./12-fizzbuzz.py) : Fizz buzz challenge <br/>
