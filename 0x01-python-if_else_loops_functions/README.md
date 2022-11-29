@@ -7,3 +7,4 @@
 [6-print_comb3.py](./6-print_comb3.py) : a program that prints all possible different combinations of two digits. 01 and 10 are considered the same combination of the two digits 0 and 1 <br/>
 [7-islower.py](./7-islower.py) : a function that checks for lowercase character. <br/>
 [8-uppercase.py](./8-uppercase.py) : a function that prints a string in uppercase followed by a new line. <br/>
+[9-print_last_digit.py](./9-print_last_digit.py) : a function that prints the last digit of a number.<br/>
