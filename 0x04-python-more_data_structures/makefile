@@ -1,0 +1,4 @@
+git:
+	git add .
+	git commit -m "Python - More Data Structures: Set, Dictionary"
+	git push
