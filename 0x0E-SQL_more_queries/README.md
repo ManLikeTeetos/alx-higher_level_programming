@@ -10,3 +10,9 @@
 [8-cities_of_california_subquery.sql](8-cities_of_california_subquery.sql): Write a script that lists all the cities of California that can be found in the database hbtn_0d_usa. <br/>
 [9-cities_by_state_join.sql](9-cities_by_state_join.sql): Write a script that lists all cities contained in the database hbtn_0d_usa.<br/>
 [10-genre_id_by_show.sql](10-genre_id_by_show.sql): Write a script that lists all shows contained in hbtn_0d_tvshows that have at least one genre linked.<br/>
+[11-genre_id_all_shows.sql](11-genre_id_all_shows.sql): Write a script that lists all shows contained in the database hbtn_0d_tvshows.<br/>
+[12-no_genre.sql](12-no_genre.sql): Write a script that lists all shows contained in hbtn_0d_tvshows without a genre linked. <br/>
+[13-count_shows_by_genre.sql](13-count_shows_by_genre.sql). <br/>
+[14-my_genres.sql](14-my_genres.sql): <br/>
+[15-comedy_only.sql](15-comedy_only.sql): <br/>
+[16-shows_by_genre.sql](16-shows_by_genre.sql) : <br/>
