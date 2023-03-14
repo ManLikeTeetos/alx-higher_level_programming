@@ -1,0 +1,4 @@
+git:
+	git add .
+	git commit -m "JavaScript - Objects, Scopes and Closures"
+	git push
